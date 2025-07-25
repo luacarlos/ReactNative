@@ -55,8 +55,8 @@ export default function Index() {
           </View>
         </View>
 
-        <View /*Area cards*/>
-          <View /*Card*/ className="p-5 bg-red-700">
+        <View /*Area cards*/ className="p-6 flex-row gap-5 flex-wrap justify-center w-3/4">
+          <View /*Card*/ className="p-5 bg-slate-400 rounded-md">
             <Image className="max-w-52 max-h-52 bg-black" 
             source={require("../assets/images/tenis.webp")}/>
             <Text className="color-white font-semibold text-xl">
@@ -66,7 +66,7 @@ export default function Index() {
               Preço
             </Text>
           </View>
-          <View /*Card*/ className="p-5 bg-red-700">
+          <View /*Card*/ className="p-5 bg-slate-400 rounded-md">
             <Image className="max-w-52 max-h-52 bg-black" 
             source={require("../assets/images/tenis.webp")}/>
             <Text className="color-white font-semibold text-xl">
@@ -76,7 +76,7 @@ export default function Index() {
               Preço
             </Text>
           </View>
-          <View /*Card*/ className="p-5 bg-red-700">
+          <View /*Card*/ className="p-5 bg-slate-400 rounded-md">
             <Image className="max-w-52 max-h-52 bg-black" 
             source={require("../assets/images/tenis.webp")}/>
             <Text className="color-white font-semibold text-xl">
@@ -86,7 +86,7 @@ export default function Index() {
               Preço
             </Text>
           </View>
-          <View /*Card*/ className="p-5 bg-red-700">
+          <View /*Card*/ className="p-5 bg-slate-400 rounded-md">
             <Image className="max-w-52 max-h-52 bg-black" 
             source={require("../assets/images/tenis.webp")}/>
             <Text className="color-white font-semibold text-xl">
@@ -96,7 +96,7 @@ export default function Index() {
               Preço
             </Text>
           </View>
-          <View /*Card*/ className="p-5 bg-red-700">
+          <View /*Card*/ className="p-5 bg-slate-400 rounded-md">
             <Image className="max-w-52 max-h-52 bg-black" 
             source={require("../assets/images/tenis.webp")}/>
             <Text className="color-white font-semibold text-xl">
@@ -106,7 +106,7 @@ export default function Index() {
               Preço
             </Text>
           </View>
-          <View /*Card*/ className="p-5 bg-red-700">
+          <View /*Card*/ className="p-5 bg-slate-400 rounded-md">
             <Image className="max-w-52 max-h-52 bg-black" 
             source={require("../assets/images/tenis.webp")}/>
             <Text className="color-white font-semibold text-xl">
@@ -116,7 +116,7 @@ export default function Index() {
               Preço
             </Text>
           </View>
-          <View /*Card*/ className="p-5 bg-red-700">
+          <View /*Card*/ className="p-5 bg-slate-400 rounded-md">
             <Image className="max-w-52 max-h-52 bg-black" 
             source={require("../assets/images/tenis.webp")}/>
             <Text className="color-white font-semibold text-xl">
@@ -126,7 +126,7 @@ export default function Index() {
               Preço
             </Text>
           </View>
-          <View /*Card*/ className="p-5 bg-red-700">
+          <View /*Card*/ className="p-5 bg-slate-400 rounded-md">
             <Image className="max-w-52 max-h-52 bg-black" 
             source={require("../assets/images/tenis.webp")}/>
             <Text className="color-white font-semibold text-xl">
@@ -136,7 +136,7 @@ export default function Index() {
               Preço
             </Text>
           </View>
-          <View /*Card*/ className="p-5 bg-red-700">
+          <View /*Card*/ className="p-5 bg-slate-400 rounded-md">
             <Image className="max-w-52 max-h-52 bg-black" 
             source={require("../assets/images/tenis.webp")}/>
             <Text className="color-white font-semibold text-xl">
